@@ -64,18 +64,18 @@ Everyone calls me Shanks, I'm currently completing my Bachelor's Degree in Compu
 ## &#x1f4c8; GitHub Stats
 &nbsp;
 <p align="center">
-    <a href="https://github.com/HunterShanks/">
-        <img src="https://github-readme-stats.vercel.app/api?username=HunterShanks&count_private=true&show_owner=true&show_icons=true&hide_rank=true&hide=stars&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=1E10B5&hide_border=true/" />
+    <a href="https://github.com/shvnks/">
+        <img src="https://github-readme-stats.vercel.app/api?username=shvnks&count_private=true&show_owner=true&show_icons=true&hide_rank=true&hide=stars&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=1E10B5&hide_border=true/" />
     </a>
-    <a href="https://github.com/HunterShanks/">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HunterShanks&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=1E10B5&hide_border=true/" />
+    <a href="https://github.com/shvnks/">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shvnks&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=1E10B5&hide_border=true/" />
     </a>
 </p>
 
 <!-- Visitor Counter -->
 <p  align="center">
-<!--<img src="https://visitor-badge.glitch.me/badge?page_id=HunterShanks.HunterShanks" alt="visitor badge"/>-->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=HunterShanks.HunterShanks" alt="visitor badge"/>       
+<!--<img src="https://visitor-badge.glitch.me/badge?page_id=shvnks.shvnks" alt="visitor badge"/>-->
+<img src="https://visitor-badge.laobi.icu/badge?page_id=shvnks.shvnks" alt="visitor badge"/>       
 </p>
 
 <!-- Resources -->
