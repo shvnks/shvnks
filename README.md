@@ -14,7 +14,7 @@ int main(int argc, char **argv) {
 
 # whoami :yin_yang:
 
-Everyone calls me Shanks, I'm currently completing my Bachelor's Degree in Computer Science. I have a strong passion for cybersecurity. I'm enthusiastic and always excited to learn something new.
+Everyone calls me Shanks, I hold a Bachelor's Degree in Computer Science. I have a strong passion for cybersecurity. I'm enthusiastic and always excited to learn something new.
 
 ## Currently Learning
 - Reverse Engineering
@@ -53,11 +53,6 @@ Everyone calls me Shanks, I'm currently completing my Bachelor's Degree in Compu
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-- [MagpieCTF 2023 - This outta be large enough right?](https://shanks.dev/posts/ctf-writeups/magpiectf-2023/binary/this-outta-be-large-enough-right/readme/)
-- [MagpieCTF 2023 - No Password Here](https://shanks.dev/posts/ctf-writeups/magpiectf-2023/binary/no-password-here/readme/)
-- [MagpieCTF 2023 - What is Password](https://shanks.dev/posts/ctf-writeups/magpiectf-2023/networks/what-is-password/readme/)
-- [MagpieCTF 2023 - Chocolate Chips with Zero G](https://shanks.dev/posts/ctf-writeups/magpiectf-2023/web/chocolate-chips-with-zero-g/)
-- [MagpieCTF 2023 - So Meta](https://shanks.dev/posts/ctf-writeups/magpiectf-2023/forensics/so-meta/readme/)
 <!-- BLOG-POST-LIST:END -->  
 
 
