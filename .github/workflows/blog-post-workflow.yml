@@ -13,7 +13,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Pull in shanks.dev posts
-        uses: gautamkrishnar/blog-post-workflow@master
+      - name: Blog Post Workflow
+        uses: gautamkrishnar/blog-post-workflow@1.8.4
         with:
           feed_list: "https://shanks.dev/posts/index.xml"
