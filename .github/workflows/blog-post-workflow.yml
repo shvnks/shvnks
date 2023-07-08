@@ -16,4 +16,4 @@ jobs:
       - name: Pull in shanks.dev posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://shanks.dev/post/index.xml"
+          feed_list: "https://shanks.dev/posts/index.xml"
