@@ -17,3 +17,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@1.8.4
         with:
           feed_list: "https://shanks.dev/posts/index.xml"
+          disable_item_validation: true
