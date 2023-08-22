@@ -53,11 +53,11 @@ Everyone calls me Shanks, I hold a Bachelor's Degree in Computer Science. I have
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [0x8 - Joplin Server using Docker](https://shanks.dev/posts/blog-posts/0x8/)
+- [0x9 - Jellyfin Server using Docker](https://shanks.dev/posts/blog-posts/0x9/)
+- [0x6 - Graduation from University](https://shanks.dev/posts/blog-posts/0x6/)
 - [North Sec 2023 - Look Within Myself](https://shanks.dev/posts/ctf-writeups/nsec2023/look-within-myself/readme/)
 - [0x5 - First North Sec Experience](https://shanks.dev/posts/blog-posts/0x5/)
-- [0x4 - MagpieCTF 2023 Writeup Standings](https://shanks.dev/posts/blog-posts/0x4/)
-- [MagpieCTF 2023 - This outta be large enough right?](https://shanks.dev/posts/ctf-writeups/magpiectf-2023/binary/this-outta-be-large-enough-right/readme/)
-- [MagpieCTF 2023 - No Password Here](https://shanks.dev/posts/ctf-writeups/magpiectf-2023/binary/no-password-here/readme/)
 <!-- BLOG-POST-LIST:END -->  
 
 
